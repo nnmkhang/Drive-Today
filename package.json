@@ -1,0 +1,22 @@
+{
+  "name": "drive-today",
+  "version": "1.0.0",
+  "description": "Google Home app that well tell you if its safe to drive right now",
+  "main": "script.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnmkhang/Drive-Today.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnmkhang/Drive-Today/issues"
+  },
+  "homepage": "https://github.com/nnmkhang/Drive-Today#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
